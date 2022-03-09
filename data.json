@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Art-Studio\n                        Amighen",
+        "address": "str. Albisoara 82/12, Chisinau, Moldova",
+        "contact": "068 648 020068 648 020",
+        "description": "Programa de instruire: educație artistică, desen, modelare, aero-modelare, engleză, pregătire pen..."
+    },
+    {
+        "name": "Kedem",
+        "address": "Str. Eugen Doga, 5, Chisinau, Moldova",
+        "contact": "022 509 622, 068 550 202022 509 622, 068 550\n                                    202\n http://kedem.md/",
+        "description": "Vârsta: de la 2 ani la 7 ani. Programa de instruire: cursuri de dezvoltare timpurie, lectură, stu..."
+    },
+    {
+        "name": "Clubul\n                        copiilor Spiridușii",
+        "address": "str. Burebista, 92B, Chisinua, Moldova",
+        "contact": "069 114 145069 114 145\n https://www.spiridusii.md/index.php/ro/",
+        "description": "Programa de instruire: dezvoltarea holistică, educația și formarea personalității, educația în st..."
+    },
+    {
+        "name": "Indigo",
+        "address": "bd. Decebal 80, nr.106, mun. Chisinau,\n                            Moldova",
+        "contact": "022 57 10 62022 57 10 62\n http://indigocentre.md/",
+        "description": "Programa de instruire: formare numai în limba română, arta vorbiri și comunicare, biblioteca, edu..."
+    },
+    {
+        "name": "KidLand",
+        "address": "str. Miron Costin, 3/1, Chisinau, Moldova",
+        "contact": "079 402 826079 402 826",
+        "description": "Formarea după metoda Montessori, domeniul matematicii, artele frumosului, educație spațială, dezv..."
+    },
+    {
+        "name": "Piccolo\n                        Mondo",
+        "address": "Bulevardul Moscova 3/6, Chisinau, Молдавия",
+        "contact": "069 643 400069 643 400",
+        "description": "Programa de instruire: limba română, dezvoltarea limbajului, matematică, arte vizuale."
+    },
+    {
+        "name": "Căsuţa\n                        Buburuzei",
+        "address": "Mircea cel Bătrân 29/4, Chisinau, Moldova",
+        "contact": "078 719 979078 719 979",
+        "description": "Căsuţa Buburuzei – locul unde bebeluşul tău înfloreşte! Centru de Dezvoltare pentru Copii (..."
+    },
+    {
+        "name": "Kinder\n                        club",
+        "address": "Chișinău, Moldova",
+        "contact": "069 036 940069 036 940\n http://kinder.md/",
+        "description": "Programa de instruire: formarea după metoda Montessori în limbile rusă și română, dezvoltarea înc..."
+    },
+    {
+        "name": "Liuboznaika",
+        "address": "Independentei 6/1, Chisinau, Moldova",
+        "contact": "079 193 992079 193 992",
+        "description": "Programa de instruire: aritmetică, gramatică, artele frumoase, lecții de muzică, instruire în li..."
+    },
+    {
+        "name": "Centrul\n                        de distracţii Curcubeul Vesel",
+        "address": "Strada Petru Zadnipru 15/4, Кишинёв, Молдавия",
+        "contact": "079 505 308079 505 308",
+        "description": "Centrul de distracţii Curcubeul Vesel pune un accent deosebit pe organizarea zilelor de naştere p..."
+    },
+    {
+        "name": "Centrul\n                        de Intervenție Precoce Voinicel",
+        "address": "str. Drumul Taberei, 2a, Chisinau, Moldova",
+        "contact": "022 224 936022 224 936\n http://www.voinicel.md/index.php?l=ro",
+        "description": "Centrul de intervenție precoce ”Voinicel” este o organizație obștească, non guvernamentală, non p..."
+    },
+    {
+        "name": "Centrul\n                        de dezvoltare timpurie «Непоседа»",
+        "address": "str. A. Diordiţă, 4, Chisinau, Moldova",
+        "contact": "022 241 203, 079 792 867022 241 203, 079 792\n                                    867",
+        "description": "Programa de instruire: instruirea în limba rusă, etica comunicării cu colegii, jocurile muzicale,..."
+    },
+    {
+        "name": "HappyLife",
+        "address": "str. Matei Basarab, 5/1, Chisinau, Moldova",
+        "contact": "022 311 004; 078 000 202022 311 004; 078 000\n                                    202",
+        "description": "Vârsta: de la 2 ani la 7 ani Programa de instruire: dezvoltarea memoriei, gândirii, imaginației, ..."
+    },
+    {
+        "name": "Elite\n                        Academia",
+        "address": "str. Alexei Sciusev, 49, Chisinau, Moldova",
+        "contact": "022 220 196022 220 196\n http://eliteacademia.md/",
+        "description": "Programa de instruire: creativitate, terapie prin basme, maniere bune si eticheta emoţională, joc..."
+    },
+    {
+        "name": "FasTracKids",
+        "address": "Chisinau, Moldova",
+        "contact": "079 336 336079 336 336",
+        "description": "Centrul funcționează ca o mini-grădiniţă, dar există și cursuri suplimentare pentru preşcolari. C..."
+    },
+    {
+        "name": "Buburuza\n                        Mela",
+        "address": "bd. Dacia 6, Chișinău, Moldova",
+        "contact": "068 049 213; 078 142 791068 049 213; 078 142\n                                    791",
+        "description": "Buburuza Mela Club -organizam zile de nastere si petreceri Buburuza Mela Animatori– organiz..."
+    },
+    {
+        "name": "Giraffe\n                        Mini-club",
+        "address": "str. Decebal, 80/1 et. 3, of. 308, Chisinau,\n                            Moldova",
+        "contact": "079 522 375079 522 375",
+        "description": "Programa de instruire: formarea în limba română, formarea gustului estetic, vocal, dansul, modela..."
+    },
+    {
+        "name": "Carul\n                        Cunoştinţelor",
+        "address": "str. Tighina, 65, ICAM, biroul 408-B, Chisinau,\n                            Moldova",
+        "contact": "068 318 577068 318 577",
+        "description": "Centrul de dezvoltare intelectuală Carul Cunoştinţelor Programa de instruire: dezvoltarea abilită..."
+    },
+    {
+        "name": "Песочная\n                        страна – Ţara Nisipurilor",
+        "address": "bul. Decebal, 23, CC Jambo. et. 4, Chisinau,\n                            Moldova",
+        "contact": "079 421 938079 421 938\n http://pesok.md/",
+        "description": "Programa de instruire: desenul în nisip, jocuri în nisip, dezvoltarea limbajului și culturii comu..."
+    },
+    {
+        "name": "Piccoli\n                        club",
+        "address": "str. Alba-Iulia 95 et 1, Chisinau, Moldova",
+        "contact": "068 775 626068 775 626",
+        "description": "Programa de formare vizează dezvoltarea începutului creativ al copilului, gândirea logică, dezvol..."
+    }
+]
